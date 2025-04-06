@@ -84,4 +84,4 @@ While the notebook contains detailed insights, some key observations from the an
 
 ## License
 
-This project is licensed under the MIT License.
+MIT License.
